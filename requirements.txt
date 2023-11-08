@@ -1,2 +1,2 @@
-mysql_connector_repackaged==0.3.1
+mysql-connector-python==4.21.12
 python-dotenv==1.0.0
